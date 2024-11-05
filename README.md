@@ -9,6 +9,15 @@ https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity
 Secure Software Development Framework (SSDF): Recommendations for Mitigating the Risk of Software Vulnerabilities, version 1.1
 https://bit.ly/3rHxaJ0
 
+Building Secure Microservices-based Applications Using Service-Mesh Architecture
+https://www.nist.gov/publications/building-secure-microservices-based-applications-using-service-mesh-architecture
+
+National Security Agency & CISA Kubernetes Hardening Guide 
+https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF
+
+Kubernetes STIG Ver 2, Rel 1 Checklist Details
+https://ncp.nist.gov/checklist/996
+
 Multi-Cloud Security Public Working Group MCSPWG
 https://csrc.nist.gov/projects/mcspwg
 
