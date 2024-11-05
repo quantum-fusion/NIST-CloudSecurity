@@ -6,6 +6,9 @@ https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executi
 NIST EXECUTIVE ORDER 14028, IMPROVING THE NATION'S CYBERSECURITY
 https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity
 
+Secure Software Development Framework (SSDF): Recommendations for Mitigating the Risk of Software Vulnerabilities, version 1.1
+https://bit.ly/3rHxaJ0
+
 Multi-Cloud Security Public Working Group MCSPWG
 https://csrc.nist.gov/projects/mcspwg
 
